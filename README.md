@@ -57,9 +57,11 @@ Due to limitations of word-processing software, interactive plots are hosted onl
 ## How to View the Interactive Plot
 
 1. Open the following link in a web browser:
-   **[(https://username.github.io/repository-name/interactive_plots.html)](https://github.com/vettribiomed/Interactive-plot-Krona-/blob/main/interactive_plots.html)**
+   **(https://github.com/vettribiomed/Interactive-plot-Krona-/blob/main/interactive_plots.html)**
 
-2. Use mouse or trackpad to:
+2. Download the interactive_plot.html raw file and open the file in the system
+
+3. Use mouse or trackpad to:
 
    * Zoom into specific taxa
    * Explore hierarchical relationships

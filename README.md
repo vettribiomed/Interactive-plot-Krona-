@@ -57,7 +57,8 @@ Due to limitations of word-processing software, interactive plots are hosted onl
 ## How to View the Interactive Plot
 
 1. Open the following link in a web browser:
-   **(https://github.com/vettribiomed/Interactive-plot-Krona-/blob/main/interactive_plots.html)**
+   **## View the Interactive Plot
+[![View Plot](https://img.shields.io/badge/View-Interactive%20Plot-blue?style=for-the-badge)](https://vettribiomed.github.io/Interactive-plot-Krona-/interactive_plot.html)**
 
 2. Download the interactive_plot.html raw file and open the file in the system
 

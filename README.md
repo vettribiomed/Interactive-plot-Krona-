@@ -57,7 +57,7 @@ Due to limitations of word-processing software, interactive plots are hosted onl
 ## How to View the Interactive Plot
 
 1. Open the following link in a web browser:
-   **[https://username.github.io/repository-name/interactive_plots.html](https://username.github.io/repository-name/interactive_plots.html)**
+   **[[https://username.github.io/repository-name/interactive_plots.html](https://username.github.io/repository-name/interactive_plots.html)](https://github.com/vettribiomed/Interactive-plot-Krona-/blob/main/interactive_plots.html)**
 
 2. Use mouse or trackpad to:
 
